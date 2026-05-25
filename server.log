@@ -1,0 +1,4 @@
+🚀 Sri Sapthagiri Server running on http://localhost:5001
+🗂️  Data Retention Policy: 18 months (auto-purge via MongoDB TTL)
+📡 Connecting to MongoDB...
+✅ MongoDB Connected Successfully
